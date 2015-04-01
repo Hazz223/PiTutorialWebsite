@@ -1,0 +1,8 @@
+Plan for Pi tutorial
+
+1. set up basic website.
+	- remember to include all libraries locally! Can't use CMS!
+2. Create navbar / links to differnet content
+3. create pages for the seperate content, with bare bones content such as title
+4. USe bootstrap to make it look good - get the different sections setup
+
