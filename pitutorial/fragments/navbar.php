@@ -1,11 +1,11 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
         <div class="navbar-header">
-            <a class="navbar-brand" href="#">Raspberry Pi</a>
+            <a class="navbar-brand" href="../pages/index.php">Raspberry Pi</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
-                <li name="index.php"><a href="/PiTutorial/pitutorial/pages">Home</a></li>
+                <li name="index.php"><a href="../pages/index.php">Home</a></li>
                 <li name="about.php"><a href="../pages/about.php">About</a></li>
                 <li name="tutorials.php" class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tutorials<span class="caret"></span></a>

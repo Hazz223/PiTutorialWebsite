@@ -53,8 +53,49 @@ include "../fragments/navbar.php";
                 <small>Using the Command Line</small>
             </h2>
             <p>
-                Simply put
+                First things first, lets find your console. On some linux systems, CTRL + ALT + T results in it appearing.
+                However, i don't work like that. Instead you'll find me along the navigation bar at the top of the screen. I should
+                be called "Terminal".
             </p>
+            <p>
+                When opening up the Terminal, you'll be presented with a pretty blank box (much like the first image above.).
+                This is currently pointing at your home directory. Try the command "ls". You should be presented with what's available
+                to you in your current directory; in this case home.
+            </p>
+            <p>
+
+            </p>
+            <div class="body-text__table">
+                <table class="table table-bordered table-hover">
+                    <tr>
+                        <th>Command</th>
+                        <th>Example</th>
+                        <th>Explanation</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            cd <span class="body-text__span-italic">&lt;name of directory (folder) you'd like to navigate to&gt; </span>
+                        </td>
+                        <td>
+                            cd Downloads/extracted
+                        </td>
+                        <td>
+                            Moves the terminal to the directory specified.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            ls (add -l to show everything in a list view with details)
+                        </td>
+                        <td>
+                            ls -l Downloads/extracted
+                        </td>
+                        <td>
+                            Displays list of files and directories (folders) within the current directory.
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
     </div>
     <hr>

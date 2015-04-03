@@ -23,18 +23,18 @@
         <div class="col-md-4">
             <h2>About <img class="img-circle" src="../img/Raspi_Colour_R.png" alt="Generic placeholder image" height="100" width="100"></h2>
             <p>So what exsactly am I?</p>
-            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            <p><a class="btn btn-default" href="../pages/about.php" role="button">View details »</a></p>
         </div>
         <div class="col-md-4">
             <h2>Cool Stuff <img class="img-square" src="../img/minecraft-block.png" alt="Generic placeholder image" height="100" width="100"></h2>
             <p>Coming soon...</p>
-            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            <p><a class="btn btn-default" href="../pages/comingsoon.php" role="button">View details »</a></p>
         </div>
         <div class="col-md-4">
             <h2>Console <img class="img-circle" src="../img/ubuntu_console.png" alt="Generic placeholder image" height="100" width="100"></h2>
 
             <p>How to use the console</p>
-            <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            <p><a class="btn btn-default" href="../pages/tutorial-console.php" role="button">View details »</a></p>
         </div>
     </div>
     <hr>

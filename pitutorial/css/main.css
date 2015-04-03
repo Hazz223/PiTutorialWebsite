@@ -1,4 +1,9 @@
 
+html {
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+
 .body-text{
 
 }
@@ -14,6 +19,15 @@
 
 .body-text__list-more{
     width: 40%;
+}
+
+.body-text__table{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.body-text__span-italic{
+    font-style: italic;
 }
 
 .spacer{
