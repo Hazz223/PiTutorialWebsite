@@ -27,8 +27,11 @@ include "../fragments/navbar.php";
                 Or check out the live version of the site <a href="http://www.harrywinser.com/projects/pi-tutorials">here</a>
             </p>
         </div>
-
     </div>
+    <hr>
+    <footer>
+        <p>Created by <a href="http://www.harrywinser.com">Harry Winser</a> with the help of Bootstrap and jQuery</p>
+    </footer>
 </div>
 <?php
 include "../fragments/jslibraries.php";

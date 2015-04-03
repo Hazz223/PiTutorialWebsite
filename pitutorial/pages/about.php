@@ -22,7 +22,7 @@ include "../fragments/navbar.php";
 
 <div class="container">
     <div class="row">
-        <div class="body-text__about col-lg-12 well">
+        <div class="body-text__about col-lg-12">
             <p>
                 Welcome to your very own Raspberry pi! I'm a small, and rather simple computer.
                 But don't let my size fool you! There's lots i can do.
@@ -93,6 +93,10 @@ include "../fragments/navbar.php";
 
         </div>
     </div>
+    <hr>
+    <footer>
+        <p>Created by <a href="http://www.harrywinser.com">Harry Winser</a> with the help of Bootstrap and jQuery</p>
+    </footer>
 </div>
 <?php
 include "../fragments/jslibraries.php";
