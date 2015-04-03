@@ -16,6 +16,9 @@ $(document).ready(function(){
         case "more.php":
             $("li[name='more.php']").addClass("active");
             break;
+        case "tutorial-console.php":
+            $("li[name='tutorial-console.php']").addClass("active");
+            break;
         default:
             $("li[name='index.php']").addClass("active");
     }

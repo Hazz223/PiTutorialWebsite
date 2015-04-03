@@ -11,7 +11,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Tutorials<span class="caret"></span></a>
                     <ul class="dropdown-menu" role="menu">
                         <li class="dropdown-header">Linux tutorials</li>
-                        <li><a href="../pages/comingsoon.php">Command Line</a></li>
+                        <li name="tutorial-console.php"><a href="../pages/tutorial-console.php">Command Line</a></li>
                         <li><a href="../pages/comingsoon.php">Installing software</a></li>
                         <li><a href="../pages/comingsoon.php">Minecarft</a></li>
                         <li class="divider"></li>
